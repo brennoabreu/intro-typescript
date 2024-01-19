@@ -1,0 +1,25 @@
+{
+  "name": "intro-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennoabreu/intro-typescript.git"
+  },
+  "keywords": [
+    "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"
+  ],
+  "author": "Brenno Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennoabreu/intro-typescript/issues"
+  },
+  "homepage": "https://github.com/brennoabreu/intro-typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
